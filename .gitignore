@@ -1,0 +1,5 @@
+zippedData/
+
+# Mac-specific junk file/folder
+.DS_Store
+.ipynb_checkpoints
